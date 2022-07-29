@@ -1,0 +1,23 @@
+{
+  "name": "data-validation-service",
+  "version": "0.0.1",
+  "description": "Compares Data to a given schmema and checks if it is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickUrlberger/data-validation-service.git"
+  },
+  "keywords": [
+    "data-checker",
+    "validation-service"
+  ],
+  "author": "Patrick Urlberger (SWS Computersyteme)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickUrlberger/data-validation-service/issues"
+  },
+  "homepage": "https://github.com/PatrickUrlberger/data-validation-service#readme"
+}
